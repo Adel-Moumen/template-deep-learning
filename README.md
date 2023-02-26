@@ -39,5 +39,18 @@ if __name__ == '__main__':
   fire.Fire(hello)
 ```
 
+
+## Todo
+
+- [ ] Change the README
+- [ ] Start coding?
+
+### Citations
+
+```bibtex
+
+```
+
 ### License
 See the [LICENSE](LICENSE) file.
+
